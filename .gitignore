@@ -53,3 +53,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Build trigger Tue, Sep 30, 2025  1:12:25 AM
