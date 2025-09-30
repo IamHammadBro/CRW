@@ -49,7 +49,7 @@
         <true />
     </dict>
     
-    <!-- Facebook Configuration -->
+    <!-- Facebook Configuration - Updated for production -->
     <key>CFBundleURLTypes</key>
     <array>
         <dict>
